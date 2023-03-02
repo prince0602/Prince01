@@ -17,7 +17,22 @@ Along with Spring and Spring Boot, I also gained experience using MySQL as my pr
 Throughout my journey as a backend developer, I have gained experience building scalable and maintainable web applications using Java, Spring, Spring Boot, and MySQL. I have worked on a variety of projects, ranging from small-scale REST APIs to large-scale enterprise applications.
 
 I am passionate about software development and am always looking for new challenges and opportunities to learn and grow.
+## 💼 Technical Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+		![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🔭 I'm currently working on
+
+- spring mvc project
+### 🤝 Connect with me:
+
+<p align="left"> <a href="https://twitter.com/Prince_A13" target="blank"><img src="https://img.shields.io/twitter/follow/Prince_A13?logo=twitter&style=for-the-badge" alt="Prince13" /></a> </p>
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
 
