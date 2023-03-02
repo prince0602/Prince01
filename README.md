@@ -5,9 +5,7 @@
 <h3 align="center">
 Hi there, I'm <a href="https://www.prince.dev/" target="_blank" rel="noreferrer">Prince</a> 👋
 </h3>
-<h2 align="center">
-I'm a Back-end Developer.
-</h2> 
+ 
 I started my journey as a backend developer using Java, which quickly became my favorite programming language. As I gained more experience, I discovered the Spring framework, which made developing complex applications much easier. I started using Spring for dependency injection, AOP, and building REST APIs.
 
 As I became more proficient with Spring, I discovered Spring Boot, which allowed me to quickly create production-ready applications with minimal configuration. With Spring Boot, I could easily create standalone Spring applications that could be deployed to production without requiring any additional setup.
